@@ -159,12 +159,10 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .section-title p {
   padding-top: 20px;
 }
-#wrapper .btn-wrapper { 
-	padding: 10px 20px; 
-	border: none; 
-	background-color: #fff; 
-	font-size: 15px; 
-	color: #333333;
+.btn-wrapper { 
+  background: #a29eaf;
+  color: #fff;
+  padding: 10px 20px;
 }
 /*--
 	service Start
